@@ -1,6 +1,12 @@
 # Book-Verse : Discover, Read, and Engage with Your Digital Books on the ICP Ecosystem. 🚀
 
 ## 📦 Installation Requirement
+- Frontend : 
+- Canister (Backend) : 
+- Supports Platform : 
+- - Visual Studio Code
+  - Git
+  - Github
 
 ## 📝 Guide to Run Book-Verse
 1. Go to this [site](https://github.com/yebology/bookverse-dapp.git)
