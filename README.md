@@ -7,6 +7,7 @@
 - Canister (Backend) :
   - dfx v0.22.0 (For Motoko) : [Install Here](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/)
   - Mops (For Unit Testing) : [Install Here](https://docs.mops.one/quick-start)
+- Internet Identity (Authentication) : [Create Account Here](https://identity.ic0.app/)
 - Visual Studio Code : [Install Here](https://code.visualstudio.com/download)
 - Git : [Install Here](https://git-scm.com/downloads)
 - Github : [Create Account Here](https://github.com/)
