@@ -23,7 +23,7 @@
 8. Run on terminal this script : **npm install**
 9. Create **.env** file
 10. Add [this](https://drive.google.com/file/d/1a9R2KqR-bxFBsCvuoxUxUWOD46-LffEQ/view?usp=sharing) on **.env** file
-11. Run on terminal : **npm run dev**
+11. Run on terminal this script : **npm run dev**
 12. Enjoy use our platform!
 
 ## ⚙️ Tech Stack Behind Book-Verse :
