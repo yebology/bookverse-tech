@@ -1,12 +1,15 @@
 # Book-Verse : Discover, Read, and Engage with Your Digital Books on the ICP Ecosystem. 🚀
 
-## 📦 Installation Requirement
-- Frontend : 
-- Canister (Backend) : 
-- Supports Platform : 
-- - Visual Studio Code
-  - Git
-  - Github
+## 📦 Development Setup 
+- Frontend :
+  - NodeJS v20.11.1 : [Install Here](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+  - npm v10.2.4 : [Install Here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#checking-your-version-of-npm-and-nodejs)
+- Canister (Backend) :
+  - dfx v0.22.0 (For Motoko) : [Install Here](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/)
+  - Mops (For Unit Testing) : [Install Here](https://docs.mops.one/quick-start)
+- Visual Studio Code : [Install Here](https://code.visualstudio.com/download)
+- Git : [Install Here](https://git-scm.com/downloads)
+- Github : [Create Account Here](https://github.com/)
 
 ## 📝 Guide to Run Book-Verse
 1. Go to this [site](https://github.com/yebology/bookverse-dapp.git)
