@@ -26,7 +26,7 @@
 11. Run on terminal this script : **npm run dev**
 12. Enjoy use our platform!
 
-## ⚙️ Tech Stack Behind Book-Verse :
+## ⚙️ Tech Stack Behind Book-Verse
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Canister Development : Motoko
 - 🔑 Authentication : Internet Identity
