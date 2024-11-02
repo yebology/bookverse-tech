@@ -29,6 +29,7 @@
 ## ⚙️ Tech Stack Behind Book-Verse
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Canister Development : Motoko
+- 🔗 Library : Agent.js
 - 🔑 Authentication : Internet Identity
 - 🧩 Component Library : Aceternity UI
 - 🌐 IPFS Provider : Pinata
