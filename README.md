@@ -27,7 +27,7 @@
 12. Enjoy use our platform!
 
 ## ⚙️ Tech Stack Behind Book-Verse
-- 🖥️ Frontend : ReactJS (Javascript)
+- 🖥️ Frontend : React (Javascript)
 - 🔧 Canister Development : Motoko
 - 🔗 Library : Agent.js
 - 🔑 Authentication : Internet Identity
